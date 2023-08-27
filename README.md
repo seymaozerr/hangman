@@ -16,8 +16,6 @@ This is a simple example of a Hangman game implemented in Python. The game invol
 
 5. Follow the on-screen instructions to play the game.
 
-
-
    ![image](https://github.com/seymaozerr/hangman/blob/main/image.png)
 
 ## Development and Contribution
